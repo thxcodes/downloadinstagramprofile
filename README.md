@@ -1,14 +1,7 @@
 # Download Instagram Profile
-
-![GitHub repo size](https://img.shields.io/github/repo-size/thxcodes/README-template?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/thxcodes/README-template?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/thxcodes/README-template?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/thxcodes/README-template?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/thxcodes/README-template?style=for-the-badge)
-
-<img src="exemplo-image.png" alt="exemplo imagem">
-
 > Projeto para download de imagens do perfil do instagram
+
+[![Assista o Vídeo](https://img.youtube.com/vi/c7s38543to0/0.jpg)](https://www.youtube.com/watch?v=c7s38543to0 "Assista o vídeo")
 
 ## 💻 Pré-requisitos
 
